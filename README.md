@@ -1,8 +1,2 @@
-# Project com.mycompany/TiendasTIC
-
-Steps to run this project:
-
-1. Start your Docker daemon
-2. Execute `./buildAndRun.sh` (Linux/MacOs) or `buildAndRun.bat` (Windows)
-3. Wait until Open Liberty is up- and running (e.g. use `docker logs -f CONTAINER_ID`)
-4. Visit http://localhost:9080/resources/sample
+# TIENDASTIC
+Aplicativo web para responder al objetivo del ministerio TIC de llevar la transformación digital a los barrios a través de la digitalización de la operación de las tiendas de la ciudad, de tal forma que en el aplicativo se pueda registrar los ingresos, egresos y el control de inventario de la mercancía.
